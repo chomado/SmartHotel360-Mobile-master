@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  smarthotel.backend.invocing:
+    image: ${DOCKER_REGISTRY}smarthotelbackendinvocing
+    build:
+      context: .
+      dockerfile: SmartHotel.Backend.Invocing\Dockerfile
