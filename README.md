@@ -2,7 +2,7 @@
 
 During our **Connect(); 2017** event this year we presented beautiful app demos using Xamarin.
 
-We are happy to announce the release of SmartHotel360. This release intends to share a simplified version of SmartHotel360 reference sample apps used at Connect(); 2017 Keynotes. If you missed it, you can watch <a href="https://channel9.msdn.com/Events/Connect/2017/K100">Scott Guthrie’s Keynote: Journey to the Intelligent Cloud in Channel 9</a>.
+We are happy to announce the release of SmartHotel360. This release intends to share a simplified version of SmartHotel360 reference sample apps used at Connect(); 2017 Keynotes. If you missed it, you can watch <a href="https://channel9.msdn.com/Events/Connect/2017/K100?WT.mc_id=dotnet-0000-machiy">Scott Guthrie’s Keynote: Journey to the Intelligent Cloud in Channel 9</a>.
 
 # SmartHotel360 Repos
 For this reference app scenario, we built several consumer and line-of-business apps and an Azure backend. You can find all SmartHotel360 repos in the following locations:
@@ -101,15 +101,15 @@ Xamarin.Forms enables you to build native UIs for iOS, Android, macOS, Linux, an
 <img src="Documents/Images/nfc.png" Width="210" />
 
 ## Sample endpoints
-You can find the list of the sample endpoints in the following link: (http://sh360services-public.eastus2.cloudapp.azure.com/configuration-api/cfg/public-http).
+You can find the list of the sample endpoints in the following link: (https://sh360services-public.eastus2.cloudapp.azure.com/configuration-api/cfg/public-http?WT.mc_id=dotnet-0000-machiy).
 To change the endpoints you can modifiy the AppSettings.cs file in the SmartHotel.Clients project under the Shared Code folder:
 <img src="Documents/Images/SampleEndpoints.png" Width="840"> 
 
 ## Requirements
 
-* [Visual Studio 2017 version 15.8 or Visual Studio for Mac version 7.6.3](https://www.visualstudio.com/vs/)
+* [Visual Studio 2017 version 15.8 or Visual Studio for Mac version 7.6.3](https://www.visualstudio.com/vs/?WT.mc_id=dotnet-0000-machiy)
 * Android Build Tools 27.0.3.
-* Bing Maps Key - [Getting a Bing Maps Key](https://msdn.microsoft.com/en-us/library/ff428642.aspx)
+* Bing Maps Key - [Getting a Bing Maps Key](https://msdn.microsoft.com/library/ff428642.aspx?WT.mc_id=dotnet-0000-machiy)
 
 ## Demo Scripts
 There is a detailed step-by-step demo script in the [demoscripts](https://github.com/Microsoft/SmartHotel360-mobile/tree/master/Documents) folder of this repo that you can use in your own presentations.
@@ -140,12 +140,12 @@ This project uses some third-party assets with a license that requires attributi
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
+the rights to use your contribution. For details, visit https://cla.microsoft.com/?WT.mc_id=dotnet-0000-machiy.
 
 When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
 a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
 provided by the bot. You will only need to do this once across all repos using our CLA.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/?WT.mc_id=dotnet-0000-machiy).
+For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/?WT.mc_id=dotnet-0000-machiy) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
